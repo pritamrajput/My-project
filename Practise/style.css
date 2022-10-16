@@ -1,0 +1,23 @@
+body{
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background: blueviolet;
+    margin-top: 30%;
+}
+.div-1{
+    background: red;
+}
+.div-2{
+    background: yellow;
+}
+.span-1{
+    background: blue;
+    display: inline-block;
+}
+.span-2{
+    background: palevioletred;
+}
